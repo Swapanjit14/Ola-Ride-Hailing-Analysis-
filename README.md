@@ -81,10 +81,10 @@ Analyze OLA ride hailing booking data to understand booking trends, cancellation
 
 
 ## Key Insights
-- 28.1% cancellation rate indicates major revenue leakage  
-- Peak demand periods experience higher cancellations  
-- Few customers contribute a significant share of rides  
-- UPI dominates digital payment usage  
-- Vehicle categories show different revenue and distance patterns  
+- **28.1% cancellation rate indicates major revenue leakage**  
+- **Peak demand periods experience higher cancellations**  
+- **Few customers contribute a significant share of rides**  
+- **UPI dominates digital payment usage**  
+- **Vehicle categories show different revenue and distance patterns**  
 
 
