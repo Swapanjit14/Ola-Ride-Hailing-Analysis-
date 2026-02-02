@@ -23,43 +23,46 @@ Analyze OLA ride hailing booking data to understand booking trends, cancellation
 ### 1️⃣ Overall Performance
 ![Overall Dashboard](screenshots/Overall-1.png)
 
-**Highlights**
 - Total bookings and booking value overview  
 - Booking status split (Success vs Cancellations)  
 - Daily ride volume trend  
+
+---
 
 
 ### 2️⃣ Vehicle Type Analysis
 ![Vehicle Type Dashboard](screenshots/Vehicle-type-2.png)
 
-**Highlights**
 - Booking value by vehicle category  
 - Successful ride value comparison  
 - Average and total distance travelled  
+
+---
 
 
 ### 3️⃣ Revenue & Payment Insights
 ![Revenue Dashboard](screenshots/revenue-3.png)
 
-**Highlights**
 - Revenue by payment method  
 - Daily revenue trends  
 - Top 5 customers by ride count  
+
+---
 
 
 ### 4️⃣ Cancellation Analysis
 ![Cancellation Dashboard](screenshots/cancellation-4.png)
 
-**Highlights**
 - Customer cancellation reasons  
 - Driver cancellation reasons  
 - Overall cancellation rate impact  
+
+---
 
 
 ### 5️⃣ Ratings Analysis
 ![Ratings Dashboard](screenshots/rating-5.png)
 
-**Highlights**
 - Driver ratings by vehicle type  
 - Customer ratings by vehicle type  
 
