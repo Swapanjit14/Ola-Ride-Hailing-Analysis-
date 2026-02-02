@@ -3,7 +3,6 @@
 ## Objective
 Analyze OLA ride hailing booking data to understand booking trends, cancellation behavior, revenue performance, and user experience. The goal is to extract practical insights that can help improve ride success rates and operational efficiency.
 
----
 
 ## Dataset Overview
 - **Total bookings:** 20,410  
