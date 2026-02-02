@@ -11,14 +11,12 @@ Analyze OLA ride hailing booking data to understand booking trends, cancellation
 - **Cancellation rate:** 28.1%  
 - **Total booking value (successful rides):** 11M  
 
----
 
 ## Tools & Technologies
 - **SQL (PostgreSQL)**
 - **Excel**
 - **Tableau**
 
----
 
 ## Dashboards
 
@@ -30,7 +28,6 @@ Analyze OLA ride hailing booking data to understand booking trends, cancellation
 - Booking status split (Success vs Cancellations)  
 - Daily ride volume trend  
 
----
 
 ### 2️⃣ Vehicle Type Analysis
 ![Vehicle Type Dashboard](screenshots/Vehicle-type-2.png)
@@ -40,7 +37,6 @@ Analyze OLA ride hailing booking data to understand booking trends, cancellation
 - Successful ride value comparison  
 - Average and total distance travelled  
 
----
 
 ### 3️⃣ Revenue & Payment Insights
 ![Revenue Dashboard](screenshots/revenue-3.png)
@@ -50,7 +46,6 @@ Analyze OLA ride hailing booking data to understand booking trends, cancellation
 - Daily revenue trends  
 - Top 5 customers by ride count  
 
----
 
 ### 4️⃣ Cancellation Analysis
 ![Cancellation Dashboard](screenshots/cancellation-4.png)
@@ -60,7 +55,6 @@ Analyze OLA ride hailing booking data to understand booking trends, cancellation
 - Driver cancellation reasons  
 - Overall cancellation rate impact  
 
----
 
 ### 5️⃣ Ratings Analysis
 ![Ratings Dashboard](screenshots/rating-5.png)
@@ -69,7 +63,6 @@ Analyze OLA ride hailing booking data to understand booking trends, cancellation
 - Driver ratings by vehicle type  
 - Customer ratings by vehicle type  
 
----
 
 ## SQL Views Created
 1. `successful_bookings`  
@@ -83,7 +76,6 @@ Analyze OLA ride hailing booking data to understand booking trends, cancellation
 9. `total_successful_ride_value`  
 10. `incomplete_rides_with_reason`  
 
----
 
 ## Key Insights
 - 28.1% cancellation rate indicates major revenue leakage  
@@ -92,5 +84,4 @@ Analyze OLA ride hailing booking data to understand booking trends, cancellation
 - UPI dominates digital payment usage  
 - Vehicle categories show different revenue and distance patterns  
 
----
 
